@@ -1,9 +1,10 @@
 import "./App.css";
+import FormComponent from "./Components/FormComponent";
 
 function App() {
   return (
     <div className="App">
-      <h1>Credit Card Form</h1>
+      <FormComponent />
     </div>
   );
 }
